@@ -1,2 +1,2 @@
-# dombaland
-Web Design DombaLand Beta
+# Domba Land
+Web Design Domba Land Beta
